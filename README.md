@@ -16,18 +16,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm a passionate **freelancer** who loves building things for the web and crafting visual designs. I enjoy turning ideas into clean websites, eye-catching logos, and engaging videos.
 
-- 🔭 Currently sharpening my skills and preparing new projects to showcase
-- 🌱 Growing in **Web Development**, **App Design**, and creative editing
-- 💼 Skilled in **PHP, JavaScript, MySQL**, graphic design, and video editing
-- ⚡ I design, code, and edit — all in one workflow
+-  Currently sharpening my skills and preparing new projects to showcase
+-  Growing in **Web Development**, **App Design**, and creative editing
+-  Skilled in **PHP, JavaScript, MySQL**, graphic design, and video editing
+-  I design, code, and edit — all in one workflow
 
 ---
 
-## 🛠️ Tech & Tools
+##  Tech & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,mysql,html,css,git,github,vscode,figma,ps,ae,xd&theme=dark" alt="Tech stack" />
@@ -35,26 +35,26 @@ I'm a passionate **freelancer** who loves building things for the web and crafti
 
 ---
 
-## 🎯 What I Do
+##  What I Do
 
 <table>
   <tr>
     <td width="50%">
-      <h3>💻 Web Development</h3>
+      <h3> Web Development</h3>
       <p>Modern, responsive websites built with <b>PHP, JavaScript, MySQL, HTML &amp; CSS</b> — from landing pages to full web apps.</p>
     </td>
     <td width="50%">
-      <h3>🎨 Logo &amp; Graphic Design</h3>
+      <h3> Logo &amp; Graphic Design</h3>
       <p>Modern, unique brand identities and visual content that make businesses stand out.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📱 App Design</h3>
+      <h3> App Design</h3>
       <p>Clean desktop and mobile application designs focused on usability.</p>
     </td>
     <td width="50%">
-      <h3>🎬 Video &amp; Image Editing</h3>
+      <h3> Video &amp; Image Editing</h3>
       <p>Engaging clips for YouTube, social media, and promotions — plus high-quality photo retouching.</p>
     </td>
   </tr>
@@ -62,7 +62,7 @@ I'm a passionate **freelancer** who loves building things for the web and crafti
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amalzakaria295-png&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7cf5ff&icon_color=7cf5ff&text_color=c9d1d9" alt="GitHub stats" />
@@ -71,7 +71,7 @@ I'm a passionate **freelancer** who loves building things for the web and crafti
 
 ---
 
-## 🌟 Featured Project
+##  Featured Project
 
 <div align="center">
   <a href="https://github.com/amalzakaria295-png/AmalZakariaProjects">
@@ -81,7 +81,7 @@ I'm a passionate **freelancer** who loves building things for the web and crafti
 
 ---
 
-## 📊 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
   <picture>
@@ -93,7 +93,7 @@ I'm a passionate **freelancer** who loves building things for the web and crafti
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="mailto:Amalzakaria295@gmail.com">
@@ -105,5 +105,5 @@ I'm a passionate **freelancer** who loves building things for the web and crafti
 </p>
 
 <p align="center">
-  <i>💡 Want to work together? Drop me an email — I'm available for freelance projects.</i>
+  <i> Want to work together? Drop me an email — I'm available for freelance projects.</i>
 </p>
